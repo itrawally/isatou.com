@@ -1,0 +1,78 @@
+body{
+    line-height: 1.9;
+}
+.menu{
+    padding: 1em;
+    width: 100%;
+    background-color: greenyellow;
+    text-align: center;
+}
+
+.menu a:hover{
+    color: blue;
+    background-color: black;
+}
+
+.menu a{
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 1em;
+    margin: 1em;
+    font-size: 23;
+}
+.section{
+    float: left;
+    width: 50%;
+    
+}
+.sidebar{
+    width: 50%;
+    float: right;
+    
+}
+img{
+    width: 80%;
+    max-width: 80%;
+}
+.footer{
+    clear: both;
+    color: grey;
+    background-color: black;
+    padding: 2.1em;
+    
+}
+.h1{
+    font-size: 32pt;
+    text-align: center;
+    background-color: black;
+    color: gray;
+    margin: 6px 3em;
+}
+
+.span{
+    color: white;
+    text-align: center;
+    background-color: grey;
+    font-size: 30pt;
+    padding: 2px 1em;
+    margin-left: 4.5em;
+}
+.mails a{
+	font-size: 20pt;
+	text-decoration: none;
+}
+
+.mails a:hover{
+	color: white;
+	background: black;
+}
+
+
+
+
+
+
+
+
+
+
